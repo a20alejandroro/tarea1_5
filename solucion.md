@@ -15,11 +15,11 @@ Captura a zonas, e un cliente resolvendo un rexistro A do dominio e do subdomini
 
   ![Imagen Ejer1_2.png](/imagenes/Ejer1_2.png)
 
-- Resulta de resolver un registro A del dominio:
+- Resultado de resolver un registro A del dominio:
 
   ![Imagen Ejer1_3.png](/imagenes/Ejer1_3.png)
 
-- Resulta de resolver un registro A del subdominio:
+- Resultado de resolver un registro A del subdominio:
 
   ![Imagen Ejer1_4.png](/imagenes/Ejer1_4.png)
 
@@ -48,11 +48,11 @@ Captura as dúas zonas, e un cliente resolvendo un rexistro  A do dominio e do s
 
   ![Imagen Ejer2_4.png](/imagenes/Ejer2_4.png)
 
-- Resulta de resolver un registro A del dominio:
+- Resultado de resolver un registro A del dominio:
 
   ![Imagen Ejer2_5.png](/imagenes/Ejer2_5.png)
 
-- Resulta de resolver un registro A del subdominio:
+- Resultado de resolver un registro A del subdominio:
 
   ![Imagen Ejer2_6.png](/imagenes/Ejer2_6.png)
 
@@ -69,11 +69,11 @@ Captura as dúas zonas, e un cliente resolvendo un rexistro  A do dominio e do s
 
   ![Imagen Ejer3_1.png](/imagenes/Ejer3_1.png)
 
-- Resulta de resolver un registro A del dominio:
+- Resultado de resolver un registro A del dominio:
 
   ![Imagen Ejer3_2.png](/imagenes/Ejer3_2.png)
 
-- Resulta de resolver un registro A del subdominio:
+- Resultado de resolver un registro A del subdominio:
 
   ![Imagen Ejer3_3.png](/imagenes/Ejer3_3.png)
 
@@ -85,6 +85,24 @@ Captura as dúas zonas, e un cliente resolvendo un rexistro  A do dominio e do s
 - A, bultarswan 192.168.20.226.
 
 Captura as dúas zonas, e un cliente resolvendo un rexistro  A do dominio e do subdominio contra leia e darthvader
+
+- Configuración de DARHTVADER:
+
+  ![Imagen Ejer4_1.png](/imagenes/Ejer4_1.png)
+
+- Configuración de LEIA:
+
+  ![Imagen Ejer4_2.png](/imagenes/Ejer4_2.png)
+
+  ![Imagen Ejer4_3.png](/imagenes/Ejer4_3.png)
+
+- Resultado de resolver un registro A del dominio:
+
+  ![Imagen Ejer4_4.png](/imagenes/Ejer4_4.png)
+
+- Resultado de resolver un registro A del subdominio:
+
+  ![Imagen Ejer4_5.png](/imagenes/Ejer4_5.png)
 
 ---
 
